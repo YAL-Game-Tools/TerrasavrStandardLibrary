@@ -1,0 +1,36 @@
+{
+	"resourceType": "TerrasavrLibrary",
+	"resourceVersion": "1.0",
+	"content": [
+		{
+			"summary": "About",
+			"content": [
+				"A library by you, of course (",
+				{
+					"href": "https://yal.cc",
+					"text": "your website here"
+				},
+				")"
+			]
+		},
+		{
+			"summary": "Some eggs for these trying times",
+			"items": [
+				"LizardEgg",
+				"SpiderEgg",
+				"RottenEgg",
+				"BlueEgg"
+			]
+		},
+		{
+			"summary": "Sentries",
+			"tagsContain": "Sentry"
+		},
+		{
+			"summary": "Sentries EXCEPT for DD2 content",
+			"tagsContain": "Sentry",
+			"excludePidMatches": "^DD2"
+		},
+		null
+	]
+}

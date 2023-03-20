@@ -1,0 +1,102 @@
+{
+	"summary": "Decorative",
+	"icon": "Bookcase",
+	"content": [
+		{
+			"summary": "Chair",
+			"icon": "WoodenChair",
+			"pidMatches": "(^|[a-z])Chair($|[A-Z_])"
+		},
+		{
+			"summary": "Workbench",
+			"icon": "WorkBench",
+			"pidMatches": "(^|[a-z])Work[Bb]ench($|[A-Z_])"
+		},
+		{
+			"summary": "Table",
+			"icon": "WoodenTable",
+			"pidMatches": "(^|[a-z])Table($|[A-Z_])"
+		},
+		{
+			"summary": "Bed",
+			"icon": "Bed",
+			"pidMatches": "(^|[a-z])Bed($|[A-Z_])"
+		},
+		{
+			"summary": "Lantern",
+			"icon": "ChainLantern",
+			"pidMatches": "(^|[a-z])Lantern($|[A-Z_])"
+		},
+		{
+			"summary": "Lamp",
+			"icon": "LampPost",
+			"pidMatches": "(^|[a-z])Lamp(?:post)?($|[A-Z_])"
+		},
+		{
+			"summary": "Torch",
+			"icon": "Torch",
+			"pidMatches": "(^|[a-z])Torch($|[A-Z_])"
+		},
+		{
+			"summary": "Candle",
+			"icon": "Candle",
+			"pidMatches": "(^|[a-z])Candle($|[A-Z_])"
+		},
+		{
+			"summary": "Candelabra",
+			"icon": "Candelabra",
+			"pidMatches": "(^|[a-z])Candelabra($|[A-Z_])"
+		},
+		{
+			"summary": "Chandelier",
+			"icon": "CopperChandelier",
+			"pidMatches": "(^|[a-z])Chandelier($|[A-Z_])"
+		},
+		{
+			"summary": "Door",
+			"icon": "WoodenDoor",
+			"pidMatches": "(^|[a-z])Door($|[A-Z_])"
+		},
+		{
+			"summary": "Bookcase",
+			"icon": "Bookcase",
+			"pidMatches": "(^|[a-z])Bookcase($|[A-Z_])"
+		},
+		{
+			"summary": "Sofa",
+			"icon": "BorealWoodSofa",
+			"pidMatches": "(^|[a-z])Sofa($|[A-Z_])"
+		},
+		{
+			"summary": "Dresser",
+			"icon": "Dresser",
+			"pidMatches": "(^|[a-z])Dresser($|[A-Z_])"
+		},
+		{
+			"summary": "Piano",
+			"icon": "Piano",
+			"pidMatches": "(^|[a-z])Piano($|[A-Z_])"
+		},
+		{
+			"summary": "Bathtub",
+			"icon": "Bathtub",
+			"pidMatches": "(^|[a-z])Bathtub($|[A-Z_])"
+		},
+		{
+			"summary": "Sink",
+			"icon": "WoodenSink",
+			"pidMatches": "(^|[a-z])Sink($|[A-Z_])"
+		},
+		{
+			"summary": "Toilet",
+			"icon": "Toilet",
+			"pidMatches": "(^|[a-z])Toilet($|[A-Z_])"
+		},
+		{
+			"summary": "Paintings & stuff",
+			"icon": "Discover",
+			"tagsContain": "Painting"
+		},
+		null
+	]
+}

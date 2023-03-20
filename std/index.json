@@ -1,0 +1,44 @@
+{
+	"resourceType": "TerrasavrLibrary",
+	"resourceVersion": "1.0",
+	"content": [
+		"This library is more or less taken straight from classic Terrasavr and can be a little outdated. ",
+		{
+			"href": "https://github.com/YAL-Game-Tools/TerrasavrStandardLibrary",
+			"text": "Contribute on GitHub"
+		},
+		{ "include": "materials/index.json" },
+		{ "include": "deco.json" },
+		{ "include": "pets-n-tools.json"},
+		{
+			"summary": "Potions",
+			"icon": "SpelunkerPotion",
+			"pidMatches": "(^|[a-z])Potion($|[A-Z_])",
+			"excludeItems": [
+				"PotionStatue",
+				"PlaceableManaPotion"
+			]
+		},
+		{ "include": "bosses.json" },
+		{ "include": "fishing.json" },
+		{
+			"summary": "Vanity",
+			"icon": "UmbrellaHat",
+			"tagsContain": "Vanity"
+		},
+		{
+			"summary": "Dyes",
+			"icon": "RedDye",
+			"pidMatches": "(^|[a-z])Dye($|[A-Z_])",
+			"excludePidMatches": "HairDye",
+			"excludeItems": [
+				"DyeVat",
+				"DyeTraderRobe",
+				"DyeTraderTurban",
+				"DyeTradersScimitar",
+				null
+			]
+		},
+		null
+	]
+}

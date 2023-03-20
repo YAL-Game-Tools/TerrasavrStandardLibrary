@@ -1,0 +1,27 @@
+{
+	"summary": "Fishing",
+	"icon": "Carrot",
+	"content": [
+		{
+			"summary": "Rods",
+			"icon": "GoldenFishingRod",
+			"tagsContain": "FishingRod"
+		},
+		{
+			"summary": "Fishes",
+			"icon": "Cloudfish",
+			"tagsContain": "Fish"
+		},
+		{
+			"summary": "Crates",
+			"icon": "WoodenCrate",
+			"tagsContain": "FishingCrate"
+		},
+		{
+			"summary": "Bait",
+			"icon": "MasterBait",
+			"tagsContain": "FishingBait"
+		},
+		null
+	]
+}

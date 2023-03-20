@@ -1,0 +1,12 @@
+{
+	"summary": "Materials",
+	"icon": 21,
+	"content": [
+		{"include": "Pre-Hardmode.json"},
+		{"include": "Hardmode.json"},
+		{"include": "Non-Ore.json"},
+		{"include": "Wood.json"},
+		{"include": "Plants.json"},
+		null
+	]
+}

@@ -1,0 +1,52 @@
+{
+	"summary": "Pets, mounts, tools",
+	"icon": "Carrot",
+	"content": [
+		{
+			"summary": "Pets",
+			"icon": "Carrot",
+			"tagsContain": "VanityPet"
+		},
+		{
+			"summary": "Light pets",
+			"icon": "FairyBell",
+			"tagsContain": "LightPet"
+		},
+		{
+			"summary": "Mounts",
+			"icon": "SlimySaddle",
+			"tagsContain": "Mount"
+		},
+		{
+			"summary": "Minecarts",
+			"icon": "Minecart",
+			"tagsContain": "Minecart"
+		},
+		{
+			"summary": "Hooks",
+			"icon": "GrapplingHook",
+			"tagsContain": "Hook"
+		},
+		{
+			"summary": "Pickaxes",
+			"icon": "SolarFlarePickaxe",
+			"tagsContain": "Pickaxe"
+		},
+		{
+			"summary": "Axes",
+			"icon": "MoltenHamaxe",
+			"tagsContain": "Axe"
+		},
+		{
+			"summary": "Drills",
+			"icon": "SolarFlareDrill",
+			"tagsContain": "Drill"
+		},
+		{
+			"summary": "Hammers",
+			"icon": "Pwnhammer",
+			"tagsContain": "Hammer"
+		},
+		null
+	]
+}

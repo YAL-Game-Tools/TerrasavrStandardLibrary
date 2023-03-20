@@ -1,0 +1,4 @@
+-cp src
+-neko bin/LibraryCompiler.n
+-main Main
+shared.hxml
