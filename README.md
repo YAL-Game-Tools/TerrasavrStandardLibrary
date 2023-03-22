@@ -94,4 +94,4 @@ The standard library consists from auto-generated categories (such as hooks or f
 
 Hand-made categories primarily date to 2016 or whenever was the last time when I did a full playthrough of the game, so there's likely space for improvement there.
 
-You can fork the repository
+You can fork the repository, add some missing things, and submit a pull request.
